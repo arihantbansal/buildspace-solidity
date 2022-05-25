@@ -5,7 +5,7 @@ coverage
 coverage.json
 typechain
 
-#Hardhat files
+# Hardhat files
 cache
 artifacts
-hardhat.config.js
+# hardhat.config.js
